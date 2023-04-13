@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+#CMake dirs
+bin/
+build/
+CMakeFiles/
+
+#CMake files
+*CMakeCache*.txt
+*cmake_install*.cmake
+
+#Makefile files
+Makefile
